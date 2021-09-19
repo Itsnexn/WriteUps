@@ -46,7 +46,7 @@ ffd8 ffe0 0010 4a46 4946
 I knew that `4a46 4946` is JFIF so I ignore that and changed the bytes before JFIF string
 after doing that I opened up the image and boom we got the flag!
 
-![img](./2ez.jpg)
+![img](https://raw.githubusercontent.com/Itsnexn/WriteUps/main/HacktivityCon2021/WarmUp/2ez/2ez.jpg)
 
 and ofc, I did copy paste the image on [HERE](https://brandfolder.com/workbench/extract-text-from-image) and convert it to the text!
 what did you expect me to do? write it manually? no...
