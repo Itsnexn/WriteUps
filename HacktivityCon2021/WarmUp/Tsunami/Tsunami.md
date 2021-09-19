@@ -22,17 +22,17 @@ Im using **Sonic visualiser** but you can use anything that you comfortable with
 
 **Step 0x0:**
 hit Ctrl + O or goto _File => Open_ to open up our challenge file!
-![step0x0](step0x0.png)
+![step0x0](https://raw.githubusercontent.com/Itsnexn/WriteUps/main/HacktivityCon2021/WarmUp/Tsunami/step0x0.png)
 
 **Step 0x1:**
-![step0x1](step0x1.png)
+![step0x1](https://raw.githubusercontent.com/Itsnexn/WriteUps/main/HacktivityCon2021/WarmUp/Tsunami/step0x1.png)
 
 **Step 0x2:**
 right click on the screen and goto _Layer => Add spectrogram_...
-![step0x2](step0x2.png)
+![step0x2](https://raw.githubusercontent.com/Itsnexn/WriteUps/main/HacktivityCon2021/WarmUp/Tsunami/step0x2.png)
 
 **Step 0x3:**
 And boom we got our flag!
-![step0x3](step0x3.png)
+![step0x3](https://raw.githubusercontent.com/Itsnexn/WriteUps/main/HacktivityCon2021/WarmUp/Tsunami/step0x3.png)
 
 > Itsnexn for  **Abyssal Cruelty**
